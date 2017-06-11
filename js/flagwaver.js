@@ -1005,7 +1005,7 @@
     //
 
     // Renderer settings
-    var poleOffset  = 50,
+    var poleOffset  = 300,
         poleHeight  = 1000;
 
     // Renderer variables
